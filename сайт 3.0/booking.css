@@ -1,0 +1,51 @@
+*{
+margin: 0;
+padding: 0;
+}
+.car{
+background: url(./img/4.png);
+height: 100vh;
+background-repeat: no-repeat;
+background-size: cover;
+background-position: center;
+}
+.rectangle{
+    position: absolute;
+    width: 713px;
+    height: 638px;
+    left: 134px;
+    top: 34px;
+
+background: rgba(255, 255, 255, 0.58);
+}
+.rectangle2{
+    position: absolute;
+width: 528px;
+height: 326px;
+left: 882px;
+top: 36px;
+
+background: rgba(255, 255, 255, 0.58);
+}
+.but{
+    position: absolute;
+width: 136px;
+height: 53px;
+left: 1235px;
+top: 292px;
+color: #FFFFFF;
+border-color: #3C293F;
+background: #3C293F;
+border-radius: 30px;
+}
+.but:hover{
+    position: absolute;
+    width: 136px;
+    height: 53px;
+    left: 1235px;
+    top: 292px;
+    color: #FFFFFF;
+border-color: #3C293F;
+    background:#0fc3f5 ;
+    border-radius: 30px;
+}
